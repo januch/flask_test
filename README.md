@@ -1,2 +1,2 @@
 # flask_test
-github flask dockerhub test
+Image to try github, flask and dockerhub
